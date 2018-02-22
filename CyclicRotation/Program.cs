@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace OddOccurrencesInArray
+namespace CyclicRotation
 {
     class MainClass
     {
