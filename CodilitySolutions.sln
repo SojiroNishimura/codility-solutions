@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyclicRotation", "CyclicRot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOccurrencesInArray", "OddOccurrencesInArray\OddOccurrencesInArray.csproj", "{68EFA70C-C97F-44CA-9E1C-C0C40E1356BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrogJmp", "FrogJmp\FrogJmp.csproj", "{EBD2CE0B-A9FA-459E-AF70-469359BE41CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,5 +27,9 @@ Global
 		{68EFA70C-C97F-44CA-9E1C-C0C40E1356BC}.Debug|x86.Build.0 = Debug|x86
 		{68EFA70C-C97F-44CA-9E1C-C0C40E1356BC}.Release|x86.ActiveCfg = Release|x86
 		{68EFA70C-C97F-44CA-9E1C-C0C40E1356BC}.Release|x86.Build.0 = Release|x86
+		{EBD2CE0B-A9FA-459E-AF70-469359BE41CD}.Debug|x86.ActiveCfg = Debug|x86
+		{EBD2CE0B-A9FA-459E-AF70-469359BE41CD}.Debug|x86.Build.0 = Debug|x86
+		{EBD2CE0B-A9FA-459E-AF70-469359BE41CD}.Release|x86.ActiveCfg = Release|x86
+		{EBD2CE0B-A9FA-459E-AF70-469359BE41CD}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
