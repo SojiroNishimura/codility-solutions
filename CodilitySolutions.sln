@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryGap", "CodilitySolutions\BinaryGap.csproj", "{0FDADF58-0526-41E1-A5BB-68458BC6EDEF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryGap", "BinaryGap\BinaryGap.csproj", "{0FDADF58-0526-41E1-A5BB-68458BC6EDEF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOccurrencesInArray", "OddOccurrencesInArray\OddOccurrencesInArray.csproj", "{A407CFDB-A139-4EDE-A5AD-864832DD7E91}"
 EndProject

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CodilitySolutions
+namespace BinaryGap
 {
     /// <summary>
     /// https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
