@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryGap", "BinaryGap\Bina
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyclicRotation", "CyclicRotation\CyclicRotation.csproj", "{A407CFDB-A139-4EDE-A5AD-864832DD7E91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOccurrencesInArray", "OddOccurrencesInArray\OddOccurrencesInArray.csproj", "{68EFA70C-C97F-44CA-9E1C-C0C40E1356BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,5 +21,9 @@ Global
 		{A407CFDB-A139-4EDE-A5AD-864832DD7E91}.Debug|x86.Build.0 = Debug|x86
 		{A407CFDB-A139-4EDE-A5AD-864832DD7E91}.Release|x86.ActiveCfg = Release|x86
 		{A407CFDB-A139-4EDE-A5AD-864832DD7E91}.Release|x86.Build.0 = Release|x86
+		{68EFA70C-C97F-44CA-9E1C-C0C40E1356BC}.Debug|x86.ActiveCfg = Debug|x86
+		{68EFA70C-C97F-44CA-9E1C-C0C40E1356BC}.Debug|x86.Build.0 = Debug|x86
+		{68EFA70C-C97F-44CA-9E1C-C0C40E1356BC}.Release|x86.ActiveCfg = Release|x86
+		{68EFA70C-C97F-44CA-9E1C-C0C40E1356BC}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
