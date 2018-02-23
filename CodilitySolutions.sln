@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrogJmp", "FrogJmp\FrogJmp.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermMissingElem", "PermMissingElem\PermMissingElem.csproj", "{F0EA59B8-8F4B-455B-BA8E-8C81561BBC6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapeEquilibrium", "TapeEquilibrium\TapeEquilibrium.csproj", "{4B29E491-385A-4146-B067-833635044879}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -37,5 +39,9 @@ Global
 		{F0EA59B8-8F4B-455B-BA8E-8C81561BBC6D}.Debug|x86.Build.0 = Debug|x86
 		{F0EA59B8-8F4B-455B-BA8E-8C81561BBC6D}.Release|x86.ActiveCfg = Release|x86
 		{F0EA59B8-8F4B-455B-BA8E-8C81561BBC6D}.Release|x86.Build.0 = Release|x86
+		{4B29E491-385A-4146-B067-833635044879}.Debug|x86.ActiveCfg = Debug|x86
+		{4B29E491-385A-4146-B067-833635044879}.Debug|x86.Build.0 = Debug|x86
+		{4B29E491-385A-4146-B067-833635044879}.Release|x86.ActiveCfg = Release|x86
+		{4B29E491-385A-4146-B067-833635044879}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
