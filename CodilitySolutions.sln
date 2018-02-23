@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermMissingElem", "PermMiss
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapeEquilibrium", "TapeEquilibrium\TapeEquilibrium.csproj", "{4B29E491-385A-4146-B067-833635044879}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermCheck", "PermCheck\PermCheck.csproj", "{1F3B90C1-71E5-4643-AA9F-5620988C1908}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -43,5 +45,9 @@ Global
 		{4B29E491-385A-4146-B067-833635044879}.Debug|x86.Build.0 = Debug|x86
 		{4B29E491-385A-4146-B067-833635044879}.Release|x86.ActiveCfg = Release|x86
 		{4B29E491-385A-4146-B067-833635044879}.Release|x86.Build.0 = Release|x86
+		{1F3B90C1-71E5-4643-AA9F-5620988C1908}.Debug|x86.ActiveCfg = Debug|x86
+		{1F3B90C1-71E5-4643-AA9F-5620988C1908}.Debug|x86.Build.0 = Debug|x86
+		{1F3B90C1-71E5-4643-AA9F-5620988C1908}.Release|x86.ActiveCfg = Release|x86
+		{1F3B90C1-71E5-4643-AA9F-5620988C1908}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
