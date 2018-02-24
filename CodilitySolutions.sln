@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrogRiverOne", "FrogRiverOn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingInteger", "MissingInteger\MissingInteger.csproj", "{3A514F72-C50E-4ABC-9A22-B598AA2EFD1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountDiv", "CountDiv\CountDiv.csproj", "{930260A6-53D5-47B6-89B1-4466651BC48E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -61,5 +63,9 @@ Global
 		{3A514F72-C50E-4ABC-9A22-B598AA2EFD1E}.Debug|x86.Build.0 = Debug|x86
 		{3A514F72-C50E-4ABC-9A22-B598AA2EFD1E}.Release|x86.ActiveCfg = Release|x86
 		{3A514F72-C50E-4ABC-9A22-B598AA2EFD1E}.Release|x86.Build.0 = Release|x86
+		{930260A6-53D5-47B6-89B1-4466651BC48E}.Debug|x86.ActiveCfg = Debug|x86
+		{930260A6-53D5-47B6-89B1-4466651BC48E}.Debug|x86.Build.0 = Debug|x86
+		{930260A6-53D5-47B6-89B1-4466651BC48E}.Release|x86.ActiveCfg = Release|x86
+		{930260A6-53D5-47B6-89B1-4466651BC48E}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
