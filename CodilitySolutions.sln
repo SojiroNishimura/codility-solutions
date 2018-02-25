@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountDiv", "CountDiv\CountD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassingCars", "PassingCars\PassingCars.csproj", "{F0864F7F-EBE8-46DF-B53D-24B3E31CA9A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distinct", "Distinct\Distinct.csproj", "{FF722EBB-42A8-425E-ACB7-C8B4883078E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -73,5 +75,9 @@ Global
 		{F0864F7F-EBE8-46DF-B53D-24B3E31CA9A4}.Debug|x86.Build.0 = Debug|x86
 		{F0864F7F-EBE8-46DF-B53D-24B3E31CA9A4}.Release|x86.ActiveCfg = Release|x86
 		{F0864F7F-EBE8-46DF-B53D-24B3E31CA9A4}.Release|x86.Build.0 = Release|x86
+		{FF722EBB-42A8-425E-ACB7-C8B4883078E3}.Debug|x86.ActiveCfg = Debug|x86
+		{FF722EBB-42A8-425E-ACB7-C8B4883078E3}.Debug|x86.Build.0 = Debug|x86
+		{FF722EBB-42A8-425E-ACB7-C8B4883078E3}.Release|x86.ActiveCfg = Release|x86
+		{FF722EBB-42A8-425E-ACB7-C8B4883078E3}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
