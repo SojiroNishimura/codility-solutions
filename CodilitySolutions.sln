@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distinct", "Distinct\Distin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "Triangle\Triangle.csproj", "{44CD86CF-CE87-436A-A0C0-11829D7585C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxProductOfThree", "MaxProductOfThree\MaxProductOfThree.csproj", "{7CA75AFD-9C39-42BE-AAE3-6678D3138581}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -85,5 +87,9 @@ Global
 		{44CD86CF-CE87-436A-A0C0-11829D7585C1}.Debug|x86.Build.0 = Debug|x86
 		{44CD86CF-CE87-436A-A0C0-11829D7585C1}.Release|x86.ActiveCfg = Release|x86
 		{44CD86CF-CE87-436A-A0C0-11829D7585C1}.Release|x86.Build.0 = Release|x86
+		{7CA75AFD-9C39-42BE-AAE3-6678D3138581}.Debug|x86.ActiveCfg = Debug|x86
+		{7CA75AFD-9C39-42BE-AAE3-6678D3138581}.Debug|x86.Build.0 = Debug|x86
+		{7CA75AFD-9C39-42BE-AAE3-6678D3138581}.Release|x86.ActiveCfg = Release|x86
+		{7CA75AFD-9C39-42BE-AAE3-6678D3138581}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
