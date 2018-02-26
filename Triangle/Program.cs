@@ -18,20 +18,14 @@ namespace Triangle
 
         public static int Solution(int[] A)
         {
-            for (var i = 0; i < A.Length; i++)
+            // write your code in C# 6.0 with .NET 4.5 (Mono)
+            Array.Sort(A);
+            for (var i = 0; i < A.Length - 2; i++)
             {
-                for (var j = i + 1; j < A.Length; j++)
+                long sum = A[i] + A[i + 1];
+                if (sum > A[i + 2])
                 {
-                    for (var k = j + 1; k < A.Length; k++)
-                    {
-                        var len = A[i] + A[j] + A[k];
-                        var max = Math.Max(A[i], Math.Max(A[j], A[k]));
-                        var rest = len - max;
-                        if (max < rest)
-                        {
-                            return 1;
-                        }
-                    }
+                    return 1;
                 }
             }
             return 0;
