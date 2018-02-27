@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "Triangle\Triang
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxProductOfThree", "MaxProductOfThree\MaxProductOfThree.csproj", "{7CA75AFD-9C39-42BE-AAE3-6678D3138581}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brackets", "Brackets\Brackets.csproj", "{872B8716-9995-4545-B575-F81717E2A1B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -91,5 +93,9 @@ Global
 		{7CA75AFD-9C39-42BE-AAE3-6678D3138581}.Debug|x86.Build.0 = Debug|x86
 		{7CA75AFD-9C39-42BE-AAE3-6678D3138581}.Release|x86.ActiveCfg = Release|x86
 		{7CA75AFD-9C39-42BE-AAE3-6678D3138581}.Release|x86.Build.0 = Release|x86
+		{872B8716-9995-4545-B575-F81717E2A1B9}.Debug|x86.ActiveCfg = Debug|x86
+		{872B8716-9995-4545-B575-F81717E2A1B9}.Debug|x86.Build.0 = Debug|x86
+		{872B8716-9995-4545-B575-F81717E2A1B9}.Release|x86.ActiveCfg = Release|x86
+		{872B8716-9995-4545-B575-F81717E2A1B9}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
