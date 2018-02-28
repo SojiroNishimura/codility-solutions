@@ -4,6 +4,9 @@ using System.Linq;
 
 namespace Fish
 {
+    /// <summary>
+    /// https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/
+    /// </summary>
     class MainClass
     {
         public static void Main(string[] args)
