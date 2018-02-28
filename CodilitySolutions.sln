@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxProductOfThree", "MaxPro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brackets", "Brackets\Brackets.csproj", "{872B8716-9995-4545-B575-F81717E2A1B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fish", "Fish\Fish.csproj", "{33CD17C1-7443-4828-8038-C273FC7FEA9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -97,5 +99,9 @@ Global
 		{872B8716-9995-4545-B575-F81717E2A1B9}.Debug|x86.Build.0 = Debug|x86
 		{872B8716-9995-4545-B575-F81717E2A1B9}.Release|x86.ActiveCfg = Release|x86
 		{872B8716-9995-4545-B575-F81717E2A1B9}.Release|x86.Build.0 = Release|x86
+		{33CD17C1-7443-4828-8038-C273FC7FEA9D}.Debug|x86.ActiveCfg = Debug|x86
+		{33CD17C1-7443-4828-8038-C273FC7FEA9D}.Debug|x86.Build.0 = Debug|x86
+		{33CD17C1-7443-4828-8038-C273FC7FEA9D}.Release|x86.ActiveCfg = Release|x86
+		{33CD17C1-7443-4828-8038-C273FC7FEA9D}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
