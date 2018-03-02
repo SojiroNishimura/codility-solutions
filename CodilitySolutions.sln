@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fish", "Fish\Fish.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nesting", "Nesting\Nesting.csproj", "{A3A80079-FB2E-476D-BBCC-61DE62D5EABA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominator", "Dominator\Dominator.csproj", "{825C7748-7F95-4474-B2E8-3AF065C0FD7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -109,5 +111,9 @@ Global
 		{A3A80079-FB2E-476D-BBCC-61DE62D5EABA}.Debug|x86.Build.0 = Debug|x86
 		{A3A80079-FB2E-476D-BBCC-61DE62D5EABA}.Release|x86.ActiveCfg = Release|x86
 		{A3A80079-FB2E-476D-BBCC-61DE62D5EABA}.Release|x86.Build.0 = Release|x86
+		{825C7748-7F95-4474-B2E8-3AF065C0FD7F}.Debug|x86.ActiveCfg = Debug|x86
+		{825C7748-7F95-4474-B2E8-3AF065C0FD7F}.Debug|x86.Build.0 = Debug|x86
+		{825C7748-7F95-4474-B2E8-3AF065C0FD7F}.Release|x86.ActiveCfg = Release|x86
+		{825C7748-7F95-4474-B2E8-3AF065C0FD7F}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
