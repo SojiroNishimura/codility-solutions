@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nesting", "Nesting\Nesting.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominator", "Dominator\Dominator.csproj", "{825C7748-7F95-4474-B2E8-3AF065C0FD7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSliceSum", "MaxSliceSum\MaxSliceSum.csproj", "{DC4F7B4B-4D40-4D53-B94E-6A7AA9194D04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -115,5 +117,9 @@ Global
 		{825C7748-7F95-4474-B2E8-3AF065C0FD7F}.Debug|x86.Build.0 = Debug|x86
 		{825C7748-7F95-4474-B2E8-3AF065C0FD7F}.Release|x86.ActiveCfg = Release|x86
 		{825C7748-7F95-4474-B2E8-3AF065C0FD7F}.Release|x86.Build.0 = Release|x86
+		{DC4F7B4B-4D40-4D53-B94E-6A7AA9194D04}.Debug|x86.ActiveCfg = Debug|x86
+		{DC4F7B4B-4D40-4D53-B94E-6A7AA9194D04}.Debug|x86.Build.0 = Debug|x86
+		{DC4F7B4B-4D40-4D53-B94E-6A7AA9194D04}.Release|x86.ActiveCfg = Release|x86
+		{DC4F7B4B-4D40-4D53-B94E-6A7AA9194D04}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
