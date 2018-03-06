@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSliceSum", "MaxSliceSum\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxProfit", "MaxProfit\MaxProfit.csproj", "{F8FCBB0C-6F96-4FB9-89B7-30DD35448981}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountFactors", "CountFactors\CountFactors.csproj", "{1351AF47-126A-4FC6-A3DF-C37181766287}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -127,5 +129,9 @@ Global
 		{F8FCBB0C-6F96-4FB9-89B7-30DD35448981}.Debug|x86.Build.0 = Debug|x86
 		{F8FCBB0C-6F96-4FB9-89B7-30DD35448981}.Release|x86.ActiveCfg = Release|x86
 		{F8FCBB0C-6F96-4FB9-89B7-30DD35448981}.Release|x86.Build.0 = Release|x86
+		{1351AF47-126A-4FC6-A3DF-C37181766287}.Debug|x86.ActiveCfg = Debug|x86
+		{1351AF47-126A-4FC6-A3DF-C37181766287}.Debug|x86.Build.0 = Debug|x86
+		{1351AF47-126A-4FC6-A3DF-C37181766287}.Release|x86.ActiveCfg = Release|x86
+		{1351AF47-126A-4FC6-A3DF-C37181766287}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
