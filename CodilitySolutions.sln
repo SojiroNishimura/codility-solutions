@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountFactors", "CountFactor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinPerimeterRectangle", "MinPerimeterRectangle\MinPerimeterRectangle.csproj", "{322D8F46-E36A-46CA-BD22-592000CF413E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChocolatesByNumbers", "ChocolatesByNumbers\ChocolatesByNumbers.csproj", "{47DFF765-14C7-422D-A767-A68CC678C1EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -139,5 +141,9 @@ Global
 		{322D8F46-E36A-46CA-BD22-592000CF413E}.Debug|x86.Build.0 = Debug|x86
 		{322D8F46-E36A-46CA-BD22-592000CF413E}.Release|x86.ActiveCfg = Release|x86
 		{322D8F46-E36A-46CA-BD22-592000CF413E}.Release|x86.Build.0 = Release|x86
+		{47DFF765-14C7-422D-A767-A68CC678C1EA}.Debug|x86.ActiveCfg = Debug|x86
+		{47DFF765-14C7-422D-A767-A68CC678C1EA}.Debug|x86.Build.0 = Debug|x86
+		{47DFF765-14C7-422D-A767-A68CC678C1EA}.Release|x86.ActiveCfg = Release|x86
+		{47DFF765-14C7-422D-A767-A68CC678C1EA}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
